@@ -1,0 +1,20 @@
+C:\Users\Игорь\Desktop\шифрование\cesar\cesar\bin\Debug\cesar.exe.config
+C:\Users\Игорь\Desktop\шифрование\cesar\cesar\bin\Debug\cesar.exe
+C:\Users\Игорь\Desktop\шифрование\cesar\cesar\bin\Debug\cesar.pdb
+C:\Users\Игорь\Desktop\шифрование\cesar\cesar\obj\Debug\cesar.exe
+C:\Users\Игорь\Desktop\шифрование\cesar\cesar\obj\Debug\cesar.pdb
+D:\шифрование\cesar\cesar\bin\Debug\cesar.exe.config
+D:\шифрование\cesar\cesar\obj\Debug\cesar.exe
+D:\шифрование\cesar\cesar\obj\Debug\cesar.pdb
+D:\шифрование\cesar\cesar\bin\Debug\cesar.exe
+D:\шифрование\cesar\cesar\bin\Debug\cesar.pdb
+D:\шифрование\cesar\cesar\obj\Debug\cesar.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\cesar\cesar\bin\Debug\cesar.exe.config
+C:\Users\student\Desktop\cesar\cesar\bin\Debug\cesar.exe
+C:\Users\student\Desktop\cesar\cesar\bin\Debug\cesar.pdb
+C:\Users\student\Desktop\cesar\cesar\obj\Debug\cesar.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\cesar\cesar\obj\Debug\cesar.exe
+C:\Users\student\Desktop\cesar\cesar\obj\Debug\cesar.pdb
+C:\Users\lenovo\Desktop\Копосов А.С\cesar\cesar\bin\Debug\cesar.exe.config
+C:\Users\lenovo\Desktop\Копосов А.С\cesar\cesar\obj\Debug\cesar.exe
+C:\Users\lenovo\Desktop\Копосов А.С\cesar\cesar\obj\Debug\cesar.pdb

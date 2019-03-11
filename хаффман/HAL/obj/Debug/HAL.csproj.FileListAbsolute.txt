@@ -1,0 +1,18 @@
+D:\HAL\HAL\bin\Debug\HAL.exe.config
+D:\HAL\HAL\bin\Debug\HAL.exe
+D:\HAL\HAL\bin\Debug\HAL.pdb
+D:\HAL\HAL\obj\Debug\HAL.csprojResolveAssemblyReference.cache
+D:\HAL\HAL\obj\Debug\HAL.csproj.CoreCompileInputs.cache
+D:\HAL\HAL\obj\Debug\HAL.exe
+D:\HAL\HAL\obj\Debug\HAL.pdb
+C:\Users\lenovo\Desktop\HAL\HAL\bin\Debug\HAL.exe.config
+C:\Users\lenovo\Desktop\HAL\HAL\obj\Debug\HAL.exe
+C:\Users\lenovo\Desktop\HAL\HAL\obj\Debug\HAL.pdb
+C:\Users\lenovo\Desktop\HAL\HAL\bin\Debug\HAL.exe
+C:\Users\lenovo\Desktop\HAL\HAL\bin\Debug\HAL.pdb
+C:\Users\lenovo\Desktop\HAL\HAL\obj\Debug\HAL.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Копосов А.С\хаффман\HAL\bin\Debug\HAL.exe.config
+C:\Users\lenovo\Desktop\Копосов А.С\хаффман\HAL\obj\Debug\HAL.exe
+C:\Users\lenovo\Desktop\Копосов А.С\хаффман\HAL\obj\Debug\HAL.pdb
+C:\Users\lenovo\Desktop\Копосов А.С\хаффман\HAL\bin\Debug\HAL.exe
+C:\Users\lenovo\Desktop\Копосов А.С\хаффман\HAL\bin\Debug\HAL.pdb
